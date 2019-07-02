@@ -2,7 +2,7 @@
 
 An APK Chinese authorities load onto the Android phones of foreigners crossing into Xinjiang.
 
-The app goes by the names BXAQ or Feng Cai, and also includes references to "CellHunter" and "MobileHunter"
+The app goes by the names BXAQ or Fengcai, and also includes references to "CellHunter" and "MobileHunter"
 in its code.
 
 The app is the focus of a collaboration by Motherboard, Süddeutsche Zeitung, the Guardian, 
