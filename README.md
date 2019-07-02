@@ -21,3 +21,9 @@ The 73,000 Things You Can’t Have on Your Phone in China https://www.nytimes.co
 Chinese border guards put secret surveillance app on tourists' phones https://www.theguardian.com/world/2019/jul/02/chinese-border-guards-surveillance-app-tourists-phones
 
 Wie eine Polizei-App Touristen in China ausspäht https://www.sueddeutsche.de/politik/china-app-ueberwachung-touristen-1.4508470
+
+Technical Reports:
+
+Analyzing MobileHunter https://dwuid.com/content/analyzing-mobilehunter
+
+Analysis-Report Chinese Police App “BXAQ” 03.2019 https://cure53.de/analysis-report_bxaq.pdf
