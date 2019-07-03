@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <SurfaceView android:id="@id/surfaceViwe" android:visibility="visible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_toLeftOf="@id/idcard_rightlyaout" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" />
+        <RelativeLayout android:id="@id/idcard_rightlyaout" android:background="@android:color/white" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentTop="true" android:layout_alignParentRight="true">
+            <LinearLayout android:orientation="vertical" android:id="@id/backLayout" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="20.0dip" android:layout_centerHorizontal="true">
+                <ImageView android:id="@id/backbtn" android:background="@drawable/back" android:clickable="false" android:layout_width="50.0dip" android:layout_height="50.0dip" android:layout_centerHorizontal="true" />
+                <TextView android:textSize="13.0dip" android:textColor="#ff000000" android:id="@id/back_and_reset_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:text="@string/backbtn_string" android:layout_centerHorizontal="true" />
+            </LinearLayout>
+            <LinearLayout android:orientation="vertical" android:id="@id/takepicLayout" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="20.0dip" android:layout_below="@id/backLayout" android:layout_centerHorizontal="true">
+                <ImageView android:id="@id/takepic_btn" android:background="@drawable/takepic" android:clickable="false" android:layout_width="50.0dip" android:layout_height="50.0dip" android:layout_centerHorizontal="true" />
+                <TextView android:textSize="13.0dip" android:textColor="#ff000000" android:id="@id/take_and_confirm_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:text="@string/takepic_btn_string" android:layout_centerHorizontal="true" />
+            </LinearLayout>
+            <LinearLayout android:orientation="vertical" android:id="@id/lightonLayout" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="20.0dip" android:layout_below="@id/takepicLayout" android:layout_centerHorizontal="true">
+                <ImageView android:id="@id/lighton" android:visibility="visible" android:clickable="false" android:layout_width="50.0dip" android:layout_height="50.0dip" android:layout_centerHorizontal="true" />
+                <TextView android:textSize="13.0dip" android:textColor="#ff000000" android:id="@id/light_on_off_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/light1_string" android:layout_centerHorizontal="true" />
+            </LinearLayout>
+            <LinearLayout android:orientation="vertical" android:id="@id/cutoffLayout" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="20.0dip" android:layout_below="@id/lightonLayout" android:layout_centerHorizontal="true">
+                <ImageView android:id="@id/cutoff" android:clickable="false" android:layout_width="50.0dip" android:layout_height="50.0dip" android:layout_centerHorizontal="true" />
+                <TextView android:textSize="13.0dip" android:textColor="#ff000000" android:id="@id/cut_on_off_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/ClosedCutting" android:layout_centerHorizontal="true" />
+            </LinearLayout>
+        </RelativeLayout>
+        <ImageView android:id="@id/topleft" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        <ImageView android:id="@id/topright" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        <ImageView android:id="@id/bottomleft" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        <ImageView android:id="@id/bottomright" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    </RelativeLayout>
+</FrameLayout>

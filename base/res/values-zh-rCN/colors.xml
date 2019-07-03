@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="newlightgray">#ffb4b4b4</color>
+    <color name="default_tip_color">#ff6f6f6f</color>
+    <color name="transparent">#00000000</color>
+    <color name="activity_bgcolor">#ffefefef</color>
+    <color name="colorPrimary">#ff3f51b5</color>
+    <color name="colorPrimaryDark">#ff303f9f</color>
+    <color name="colorAccent">#ffff4081</color>
+    <color name="colorGray">#33000000</color>
+</resources>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/dilog_layout" android:background="#ffffffff" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ScrollView android:orientation="vertical" android:scrollbars="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <RelativeLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="40.0dip" android:layout_marginLeft="10.0dip" android:layout_marginTop="2.0dip" android:layout_marginRight="10.0dip">
+                <EditText android:textSize="15.0dip" android:textColor="#ff333333" android:textColorHint="#ffbbbbbb" android:id="@id/host_name" android:paddingLeft="100.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent" android:text="" android:hint="@string/localmain_showdialog_xml_owner_name_hint" />
+                <TextView android:textSize="14.0dip" android:textColor="#ff333333" android:gravity="center_vertical" android:id="@id/inputQqId_HN" android:paddingLeft="10.0dip" android:layout_width="wrap_content" android:layout_height="fill_parent" android:text="@string/localmain_showdialog_xml_owner_name" />
+            </RelativeLayout>
+            <RelativeLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="40.0dip" android:layout_marginLeft="10.0dip" android:layout_marginTop="2.0dip" android:layout_marginRight="10.0dip">
+                <EditText android:textSize="15.0dip" android:textColor="#ff333333" android:textColorHint="#ffbbbbbb" android:id="@id/host_number" android:paddingLeft="100.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent" android:text="" android:hint="@string/localmain_showdialog_xml_owner_number_hint" />
+                <TextView android:textSize="14.0dip" android:textColor="#ff333333" android:gravity="center_vertical" android:id="@id/inputQqId_HNu" android:paddingLeft="10.0dip" android:layout_width="wrap_content" android:layout_height="fill_parent" android:text="@string/localmain_showdialog_xml_owner_number" />
+            </RelativeLayout>
+            <RelativeLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="40.0dip" android:layout_marginLeft="10.0dip" android:layout_marginTop="2.0dip" android:layout_marginRight="10.0dip">
+                <EditText android:textSize="15.0dip" android:textColor="#ff333333" android:textColorHint="#ffbbbbbb" android:id="@id/host_id" android:paddingLeft="100.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent" android:text="" android:hint="@string/localmain_showdialog_xml_owner_id_hint" />
+                <TextView android:textSize="14.0dip" android:textColor="#ff333333" android:gravity="center_vertical" android:id="@id/inputId" android:paddingLeft="10.0dip" android:layout_width="wrap_content" android:layout_height="fill_parent" android:text="@string/localmain_showdialog_xml_owner_id" />
+            </RelativeLayout>
+            <RelativeLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="40.0dip" android:layout_marginLeft="10.0dip" android:layout_marginTop="2.0dip" android:layout_marginRight="10.0dip">
+                <EditText android:textSize="15.0dip" android:textColor="#ff333333" android:textColorHint="#ffbbbbbb" android:id="@id/address_id" android:paddingLeft="100.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent" android:text="" android:hint="" android:singleLine="false" />
+                <TextView android:textSize="14.0dip" android:textColor="#ff333333" android:gravity="center_vertical" android:id="@id/addressId" android:paddingLeft="10.0dip" android:layout_width="wrap_content" android:layout_height="fill_parent" android:text="@string/localmain_showdialog_xml_owner_address" />
+            </RelativeLayout>
+            <RelativeLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="40.0dip" android:layout_marginLeft="10.0dip" android:layout_marginTop="2.0dip" android:layout_marginRight="10.0dip">
+                <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="fill_parent">
+                    <Button android:textSize="15.0dip" android:id="@id/ScandirPicture" android:layout_width="fill_parent" android:layout_height="fill_parent" android:text="@string/takePicture" android:layout_weight="1.0" />
+                    <Button android:textSize="15.0dip" android:id="@id/takePicture" android:layout_width="fill_parent" android:layout_height="fill_parent" android:text="@string/takePhoto" android:layout_weight="1.0" />
+                </LinearLayout>
+            </RelativeLayout>
+            <RelativeLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="40.0dip" android:layout_marginLeft="10.0dip" android:layout_marginRight="10.0dip">
+                <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="fill_parent">
+                    <Button android:textSize="15.0dip" android:id="@id/recordVideo" android:layout_width="fill_parent" android:layout_height="fill_parent" android:text="@string/recordVideo" android:layout_weight="1.0" />
+                    <Button android:enabled="false" android:textSize="15.0dip" android:id="@id/play" android:layout_width="fill_parent" android:layout_height="fill_parent" android:text="@string/play" android:layout_weight="1.0" />
+                </LinearLayout>
+            </RelativeLayout>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

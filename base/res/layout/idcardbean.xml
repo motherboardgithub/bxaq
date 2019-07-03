@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:orientation="vertical" android:background="@android:color/black" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:layout_gravity="left" android:id="@id/photo_logo" android:layout_width="250.0dip" android:layout_height="200.0dip" android:layout_weight="1.0" />
+    <LinearLayout android:gravity="top" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="13.0">
+        <FrameLayout android:layout_gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="13.0">
+            <ImageView android:layout_gravity="center" android:id="@id/imgview" android:layout_width="400.0dip" android:layout_height="300.0dip" android:scaleType="centerInside" />
+            <ImageView android:layout_gravity="center" android:id="@id/shape" android:background="@drawable/frame" android:layout_width="wrap_content" android:layout_height="wrap_content" android:scaleType="fitXY" />
+            <ImageView android:layout_gravity="center_horizontal" android:id="@id/strip" android:layout_width="450.0dip" android:layout_height="10.0dip" android:src="@drawable/strip_green" android:scaleType="fitXY" />
+        </FrameLayout>
+        <kernal.idcard.android.MyProgressBar android:id="@id/progressBar" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_weight="1.0" style="?android:attr/progressBarStyleHorizontal" />
+    </LinearLayout>
+    <TextView android:textSize="20.0dip" android:textColor="#ff7fffaa" android:gravity="center" android:layout_gravity="center" android:id="@id/text" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+</FrameLayout>

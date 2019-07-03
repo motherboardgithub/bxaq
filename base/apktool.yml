@@ -1,0 +1,29 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: base.apk
+compressionType: false
+doNotCompress:
+- arsc
+- csv
+- png
+- res/drawable-ldpi-v4/frame.9.png
+- res/drawable-ldpi-v4/zoom.9.png
+- res/drawable-mdpi-v4/frame.9.png
+- res/drawable/frame.9.png
+- wav
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+sdkInfo:
+  minSdkVersion: '5'
+sharedLibrary: false
+sparseResources: true
+unknownFiles: {}
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 2.3.4-dirty
+versionInfo:
+  versionCode: '1'
+  versionName: '1.0'

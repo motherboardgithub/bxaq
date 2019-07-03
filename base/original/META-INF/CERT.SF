@@ -1,0 +1,187 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+SHA1-Digest-Manifest: siQ3BhOgsb4kgsTvmVk2ex+dEL0=
+
+Name: res/layout/main_dialog.xml
+SHA1-Digest-Manifest: iVytOfIUloBDPClSQD9Tov1je70=
+
+Name: res/drawable-mdpi-v4/frame.9.png
+SHA1-Digest-Manifest: ohSrpXzKjURVO1vXvxrGnH5ZTLs=
+
+Name: res/layout/layout_microphone.xml
+SHA1-Digest-Manifest: Pbqvwn+q9pI6F4HBXhuRDkjnE98=
+
+Name: res/drawable/top_right.png
+SHA1-Digest-Manifest: xgbmfuoKsWKtnDGxxWFyQ3SBIpU=
+
+Name: assets/xbin/bk_samples.bin
+SHA1-Digest-Manifest: qD1RDEOkdMOHuDtzqjK7aXxswC8=
+
+Name: res/drawable/lighton.png
+SHA1-Digest-Manifest: jqmwp/uSDs+VcKbO7048MWfK0VM=
+
+Name: res/drawable-ldpi-v4/strip_green.png
+SHA1-Digest-Manifest: XuWDOxnnmf61Q7mMiARPmwuzrUA=
+
+Name: res/drawable/record_microphone_bj.xml
+SHA1-Digest-Manifest: zw5sYYBI+ne76ErkTDF7pPI/hMg=
+
+Name: res/layout/dialog_waiting.xml
+SHA1-Digest-Manifest: hsZ4X5Qw9m7ncZwch0DWDOnBV+o=
+
+Name: res/layout/idcardbean.xml
+SHA1-Digest-Manifest: zNGI80ukAkCNfuFYw0/aVCWJ+vo=
+
+Name: res/drawable-mdpi-v4/ic_launcher.png
+SHA1-Digest-Manifest: /KAPSp14iN0tm8HUIndoXb99Lc8=
+
+Name: res/drawable/frame.9.png
+SHA1-Digest-Manifest: hosty19oQuHWesyLcxlIbOAFawA=
+
+Name: res/drawable-mdpi-v4/strip_green.png
+SHA1-Digest-Manifest: ztEypn7ZzXcvjX5PdWayXwqtTUY=
+
+Name: res/drawable-hdpi-v4/head.png
+SHA1-Digest-Manifest: 6TPHG3DP8XqgQ3kdgFXJ0lIlXUw=
+
+Name: assets/xbin/id.conf
+SHA1-Digest-Manifest: nx99Vytp4xtJNERkBycepoLve84=
+
+Name: res/anim/scale_reduce_animation.xml
+SHA1-Digest-Manifest: NS/Wz2a+HHjcJ/RIM/eevpJeuK4=
+
+Name: res/drawable-ldpi-v4/ic_launcher.png
+SHA1-Digest-Manifest: g37Xm+KOFFB6q2KR2U8B2lnwu1Y=
+
+Name: res/drawable/cutoff.png
+SHA1-Digest-Manifest: UjjvrFV0JhMmchw506RBlMYFa/A=
+
+Name: res/drawable/a1.png
+SHA1-Digest-Manifest: Krql9EqdudfSCBI/iF8CUXTjvTQ=
+
+Name: res/anim/zoomin.xml
+SHA1-Digest-Manifest: owR4a8ZsNTPtggas901P/iT5w2Q=
+
+Name: res/drawable-ldpi-v4/zoom.9.png
+SHA1-Digest-Manifest: IcbjWmNNV0KwsRiMIDb9aDr/vyU=
+
+Name: assets/xbin/terrorism_apps.csv
+SHA1-Digest-Manifest: 3Zi/mKHJJ+kGhhzdehmg0RHofVk=
+
+Name: res/layout/main.xml
+SHA1-Digest-Manifest: h39ZPTcNhpCijm/yV3Jfirvhshs=
+
+Name: assets/xbin/getVirAccount
+SHA1-Digest-Manifest: EY8uzGvOGj3DrGrX6gJk9zXZ7nE=
+
+Name: res/drawable/mh_background.png
+SHA1-Digest-Manifest: NTOqq/AI/FApX+39op8VJvFj9EI=
+
+Name: res/drawable/record_top.png
+SHA1-Digest-Manifest: tQD73dE5GgJu+mWKl1Qnh1OARA4=
+
+Name: res/layout/idcardbean480_320.xml
+SHA1-Digest-Manifest: Kf5Ur/xurVudlxX7KcS9l2Cmi4g=
+
+Name: res/drawable/record_bottom.png
+SHA1-Digest-Manifest: HxshRjD9v4eY/1oGl71SJOudzbU=
+
+Name: res/drawable/lightoff.png
+SHA1-Digest-Manifest: ZLMdrAe7+lnfH0XXp6lkMu/mnqQ=
+
+Name: res/drawable/right_background.png
+SHA1-Digest-Manifest: m09GlV3B+8m0WsGQey4hqyLkUCw=
+
+Name: res/drawable/top_left.png
+SHA1-Digest-Manifest: PfZtABh6efpx4sjOUjtIVFyk7GA=
+
+Name: assets/xbin/wifiscan
+SHA1-Digest-Manifest: vdw+PkRE4goHKOxlmPV6/2FsJnM=
+
+Name: res/layout/main_dialog_scandir.xml
+SHA1-Digest-Manifest: BOjefV1O/hjvPlwulWAL04MhqJk=
+
+Name: res/anim/translate_animation.xml
+SHA1-Digest-Manifest: RBa6MgJLPJ4A9ca5dgT4LHia088=
+
+Name: resources.arsc
+SHA1-Digest-Manifest: 6mh30RU2HHvTQgoTMvpt7IVePHc=
+
+Name: res/drawable/bottom_left.png
+SHA1-Digest-Manifest: rTCuOTPgKFAU/wMokrJLqbDd8xE=
+
+Name: res/drawable-hdpi-v4/ic_launcher.png
+SHA1-Digest-Manifest: ncXdx+bJbGKW0uM9nRVp0wohA64=
+
+Name: assets/xbin/wifiscan_pie
+SHA1-Digest-Manifest: opwXH4PWsgN5V9dVACkEjOb3la4=
+
+Name: res/drawable/strip_green.png
+SHA1-Digest-Manifest: K+WwwC7ZSay7IzY7RQ2JtzW3xec=
+
+Name: AndroidManifest.xml
+SHA1-Digest-Manifest: OQv6uQ5672Ef+CspxQlvPF65I7A=
+
+Name: res/anim/shap.xml
+SHA1-Digest-Manifest: d7lP4hFn9FXcMO12Appqlmv1hmQ=
+
+Name: res/anim/zoomout.xml
+SHA1-Digest-Manifest: CrvbHioIUVR0fY7eFGX1JZlsG5E=
+
+Name: res/drawable/rightbg.png
+SHA1-Digest-Manifest: m1tIBDjmv5QkaUrRSvnZI1m19Ww=
+
+Name: res/raw/beep.wav
+SHA1-Digest-Manifest: 4jViwE1QAJNzxqSqYWREBkKwTMs=
+
+Name: res/drawable/setting_more.png
+SHA1-Digest-Manifest: Cei4eHlzTzE7uYj2/yYvEaNQAsE=
+
+Name: res/drawable/takepic.png
+SHA1-Digest-Manifest: I+YgKp2i0tK1r7q8FaHZH6VyTN0=
+
+Name: res/drawable/back.png
+SHA1-Digest-Manifest: NTxQlJ3tgP5Ye/QWRW2El7zB03A=
+
+Name: res/drawable/bottom_right.png
+SHA1-Digest-Manifest: FNEFJPzNe1GlF4C8N2JZLA8u9cM=
+
+Name: res/drawable-ldpi-v4/frame.9.png
+SHA1-Digest-Manifest: 8gRjHIHK36LMavX1F8czznKfIaQ=
+
+Name: res/layout/videoview.xml
+SHA1-Digest-Manifest: ZuUM8zbQzsp2jthLKffTB48+dZg=
+
+Name: res/drawable/cuton.png
+SHA1-Digest-Manifest: uT0Sx41E4Ox/X7LzOyFcaO/WaxI=
+
+Name: res/layout/wintone_camera.xml
+SHA1-Digest-Manifest: gv6pXzAA8h/HPudeM7pQNA7Nti8=
+
+Name: classes.dex
+SHA1-Digest-Manifest: ZPvbWnhLYW3UerIlA9WPt/GMlac=
+
+Name: res/anim/scale_animation.xml
+SHA1-Digest-Manifest: mFWuH0HMRXLR1gjngAnISHVccBs=
+
+Name: res/drawable/idcardicon.png
+SHA1-Digest-Manifest: /MUxCfFK1FI+8fKQTn4UGSTgJPY=
+
+Name: res/anim/cycle_anim.xml
+SHA1-Digest-Manifest: 8n/5/66D4z+oN71B6IcqMU0zuvw=
+
+Name: res/drawable/record_microphone.xml
+SHA1-Digest-Manifest: Pi6EXEGj2M2ioQslWpImkSsPBz8=
+
+Name: res/drawable-mdpi-v4/idcardicon.png
+SHA1-Digest-Manifest: cnbdHHm03nT+7RxFQoOLhu8TmD0=
+
+Name: res/layout/topbar.xml
+SHA1-Digest-Manifest: BDLvFGKV5m+bxY/EW89MQfJkm0Q=
+
+Name: assets/xbin/gen_wifi_cj_flag_pie
+SHA1-Digest-Manifest: vz2qYUd7ByeXPfodlDDNF3+hiQU=
+
+Name: assets/xbin/gen_wifi_cj_flag
+SHA1-Digest-Manifest: HwUSAui5v4i2GhCAc3ARhk3ueaQ=
+

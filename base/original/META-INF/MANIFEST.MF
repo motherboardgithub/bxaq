@@ -1,0 +1,186 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+
+Name: res/layout/main_dialog.xml
+SHA1-Digest: u12SuA67GHSvSoiTrKqjvcqTvbI=
+
+Name: res/drawable-mdpi-v4/frame.9.png
+SHA1-Digest: 3tcIH8VozclfFqZishOPy9rSpro=
+
+Name: res/layout/layout_microphone.xml
+SHA1-Digest: qW1n3dkLnGRbBIrjIIF2m46k6B4=
+
+Name: res/drawable/top_right.png
+SHA1-Digest: HAdcsIgj3gBI5YX94brms3WI2HE=
+
+Name: assets/xbin/bk_samples.bin
+SHA1-Digest: x+VZfVTi7Jexr0zB3GuN09F7sq8=
+
+Name: res/drawable/lighton.png
+SHA1-Digest: UGMtOixP+pSqfBxJeQuCa2V2Mtk=
+
+Name: res/drawable-ldpi-v4/strip_green.png
+SHA1-Digest: YlnIIB9O47v/VelSdRgB0MfZsCQ=
+
+Name: res/drawable/record_microphone_bj.xml
+SHA1-Digest: RED/Vj66+asSHOl9A2u4oVWUumM=
+
+Name: res/layout/dialog_waiting.xml
+SHA1-Digest: Om7WUquiY4pJq6F5gZaQ0f7wi6k=
+
+Name: res/layout/idcardbean.xml
+SHA1-Digest: A1wwW40lZzdCHQYe4CGq6D5FfG0=
+
+Name: res/drawable-mdpi-v4/ic_launcher.png
+SHA1-Digest: fLsKgGidqVyXWMy7m4Yy7cZjBHY=
+
+Name: res/drawable/frame.9.png
+SHA1-Digest: 3tcIH8VozclfFqZishOPy9rSpro=
+
+Name: res/drawable-hdpi-v4/head.png
+SHA1-Digest: nrIZe9BAaB5O+ArsWUz66d3K1tY=
+
+Name: res/drawable-mdpi-v4/strip_green.png
+SHA1-Digest: 6EjxstQh8ybE6juIlRs29kZ0k8w=
+
+Name: assets/xbin/id.conf
+SHA1-Digest: RURlL2waxfs47Kuoy1na/pl+TqU=
+
+Name: res/anim/scale_reduce_animation.xml
+SHA1-Digest: Gc+5Yj3/dxVahcCQtUc5ZvenIjc=
+
+Name: res/drawable-ldpi-v4/ic_launcher.png
+SHA1-Digest: 2rkSL0G49jVzirRLKI8SQSu9884=
+
+Name: res/drawable/a1.png
+SHA1-Digest: 3SS/HfyrS7FkLd/cTz0/nN7WTvA=
+
+Name: res/drawable/cutoff.png
+SHA1-Digest: 9AUyOxhegT0OE6rEkxM3SxmS6y8=
+
+Name: res/drawable-ldpi-v4/zoom.9.png
+SHA1-Digest: 4RbYjClk2xP1bueToJJivgMgyNw=
+
+Name: res/anim/zoomin.xml
+SHA1-Digest: PMMZSCYQBpDa+neVvzLKnRmVXYM=
+
+Name: assets/xbin/terrorism_apps.csv
+SHA1-Digest: Hb5NNpWXS414ONwlRB4SRmi9UXE=
+
+Name: res/layout/main.xml
+SHA1-Digest: PIWKE40WzpmVT9zgYjNgdz+qunI=
+
+Name: assets/xbin/getVirAccount
+SHA1-Digest: GExa7VuHshmRxxkGrC2bXXXd7gY=
+
+Name: res/drawable/mh_background.png
+SHA1-Digest: jc3Sh55iYHUSe+mguYymdm4iCzg=
+
+Name: res/drawable/record_top.png
+SHA1-Digest: i3V+6RQ2QvSLUo7BqV52MDOrZZU=
+
+Name: res/layout/idcardbean480_320.xml
+SHA1-Digest: +rorumVk0aHzc5E6mqcRNYCov8k=
+
+Name: res/drawable/record_bottom.png
+SHA1-Digest: CMqDHncjngU9evOJnejjhEpHcfs=
+
+Name: res/drawable/lightoff.png
+SHA1-Digest: fwnNst7X86GeIbccR/QYOEI20x8=
+
+Name: res/drawable/right_background.png
+SHA1-Digest: LME97dWvT3u1RXDZHcBxX2VkEIU=
+
+Name: res/drawable/top_left.png
+SHA1-Digest: W3ItnuMh3n5Ek6Am1Xo8Spp/4aM=
+
+Name: assets/xbin/wifiscan
+SHA1-Digest: Nr2ar/PtZLMUsaurL6eo/3YFQRY=
+
+Name: res/layout/main_dialog_scandir.xml
+SHA1-Digest: 1wHoQAhYfo6vm1Zp1Xv6Hs8yfU4=
+
+Name: res/anim/translate_animation.xml
+SHA1-Digest: eA4thRD3KnllKvyxXs+g1gkojC4=
+
+Name: resources.arsc
+SHA1-Digest: L5otJe7zvjs7kyDYE846qKQLilc=
+
+Name: res/drawable/bottom_left.png
+SHA1-Digest: 60e2EpTJ9Lq2cCJIpJvfeHsFw2g=
+
+Name: res/drawable-hdpi-v4/ic_launcher.png
+SHA1-Digest: kcDu1Cu2/7s+cg9DCdBu2qWrgbE=
+
+Name: assets/xbin/wifiscan_pie
+SHA1-Digest: TWEnAAYSqRhLpjJrlPmcofYHy30=
+
+Name: res/drawable/strip_green.png
+SHA1-Digest: 6EjxstQh8ybE6juIlRs29kZ0k8w=
+
+Name: AndroidManifest.xml
+SHA1-Digest: 3oVOqGDPz2FwLRv24CfhLrcy0wA=
+
+Name: res/anim/shap.xml
+SHA1-Digest: CssZhPjLbnUhedBhih4mYDXyIP8=
+
+Name: res/anim/zoomout.xml
+SHA1-Digest: ymMl88CWHPcVWJ3Za8RJIeqjMUM=
+
+Name: res/drawable/rightbg.png
+SHA1-Digest: LME97dWvT3u1RXDZHcBxX2VkEIU=
+
+Name: res/raw/beep.wav
+SHA1-Digest: tHtDGHWtcnPOS/z5enD84CdDyo8=
+
+Name: res/drawable/setting_more.png
+SHA1-Digest: yd5/CAjruwQbonX8asx/l1HyYVg=
+
+Name: res/drawable/takepic.png
+SHA1-Digest: pxb2tATiHvLAM2B0YZ/Hm8QyvEs=
+
+Name: res/drawable/back.png
+SHA1-Digest: 9rEhv9QFyyVYhcWIQhKW1vEcbNk=
+
+Name: res/drawable/bottom_right.png
+SHA1-Digest: 1G9NQhWvqtLoS5OS1DwgUJ5RwFs=
+
+Name: res/drawable-ldpi-v4/frame.9.png
+SHA1-Digest: QWjoso8uIxUnP6hSmelcagYhVYs=
+
+Name: res/layout/videoview.xml
+SHA1-Digest: Wnd2rSYSizHxLKXnhrGEIfKRVwY=
+
+Name: res/drawable/cuton.png
+SHA1-Digest: oT+CqJix7Q0Y+oeQ9YAw3lWEGhs=
+
+Name: res/layout/wintone_camera.xml
+SHA1-Digest: RCtGKDQMZZS6MpsECWhfGDGTJHM=
+
+Name: classes.dex
+SHA1-Digest: vlQhuMGvWMiL4avKVILIxug09tw=
+
+Name: res/anim/scale_animation.xml
+SHA1-Digest: OPsZjiPd/3zKQfmHmzJi3Z5BrTw=
+
+Name: res/drawable/idcardicon.png
+SHA1-Digest: l8nMLTy8ap7bs0GkIxhQE5EIKfw=
+
+Name: res/anim/cycle_anim.xml
+SHA1-Digest: UzXsUggqppJyucnmcnJEaXHeG8k=
+
+Name: res/layout/topbar.xml
+SHA1-Digest: j6tK2OnMXk3E33e2qYf5VQRbiKc=
+
+Name: res/drawable-mdpi-v4/idcardicon.png
+SHA1-Digest: l8nMLTy8ap7bs0GkIxhQE5EIKfw=
+
+Name: res/drawable/record_microphone.xml
+SHA1-Digest: ED5tNF3M6j/4Hina0yAsjhQ1Z6k=
+
+Name: assets/xbin/gen_wifi_cj_flag
+SHA1-Digest: GVXa9I+IELmit3pcEzwoNzUAMl8=
+
+Name: assets/xbin/gen_wifi_cj_flag_pie
+SHA1-Digest: 3ZgzDGMiDq3lzH7IP/ymC/Bg14M=
+

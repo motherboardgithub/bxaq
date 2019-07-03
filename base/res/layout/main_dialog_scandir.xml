@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/dilog_layout" android:background="#ffffffff" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ScrollView android:orientation="vertical" android:scrollbars="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <RelativeLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="40.0dip" android:layout_marginLeft="10.0dip" android:layout_marginTop="2.0dip" android:layout_marginRight="10.0dip">
+                <EditText android:textSize="15.0dip" android:textColor="#ff333333" android:textColorHint="#ffbbbbbb" android:id="@id/host_name" android:paddingLeft="100.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent" android:text="" android:hint="@string/localmain_showdialog_xml_owner_name_hint" />
+                <TextView android:textSize="14.0dip" android:textColor="#ff333333" android:gravity="center_vertical" android:id="@id/inputQqId_HN" android:paddingLeft="10.0dip" android:layout_width="wrap_content" android:layout_height="fill_parent" android:text="@string/localmain_showdialog_xml_owner_name" />
+            </RelativeLayout>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.fiberhome.wifiserver" platformBuildVersionCode="23" platformBuildVersionName="6.0-2704002">
+    <application android:debuggable="true" android:icon="@android:drawable/sym_def_app_icon" android:label="@string/app_name">
+        <activity android:configChanges="keyboardHidden|orientation" android:label="@string/app_name" android:name="com.fenghuo.qzj.WelcomeActivity" android:screenOrientation="portrait" android:theme="@android:style/Theme.NoTitleBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <activity android:name="com.fenghuo.qzj.VideoViewActivity" android:screenOrientation="portrait" android:theme="@android:style/Theme.NoTitleBar"/>"
+<activity android:configChanges="keyboardHidden|orientation|screenSize" android:label="@string/app_name" android:name="checkauto.photo.main.CameraActivity" android:screenOrientation="landscape"/>
+        <activity android:configChanges="keyboardHidden|orientation" android:name="kernal.idcard.android.IDCardBean" android:screenOrientation="landscape">
+            <intent-filter>
+                <action android:name="wintone.idcard"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:configChanges="keyboardHidden|orientation" android:label="@string/app_name" android:name="kernal.idcard.android.IDCardCfg">
+            <intent-filter>
+                <action android:name="wintone.idcardconfig"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:configChanges="keyboardHidden|orientation" android:label="@string/app_name" android:name="checkauto.photo.main.IdcardRunner" android:screenOrientation="landscape">
+            <intent-filter>
+                <action android:name="idcard.receiver"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <service android:enabled="true" android:name="kernal.idcard.android.AuthService">
+            <intent-filter>
+                <action android:name="wintone.idcard.authService"/>
+            </intent-filter>
+        </service>
+        <service android:enabled="true" android:name="kernal.idcard.android.RecogService">
+            <intent-filter>
+                <action android:name="wintone.idcard.recogService"/>
+            </intent-filter>
+        </service>
+        <service android:enabled="true" android:name="kernal.idcard.android.TimeService">
+            <intent-filter>
+                <action android:name="wintone.idcard.TimeService"/>
+            </intent-filter>
+        </service>
+        <receiver android:name="kernal.idcard.android.DataChangeReceiver"/>
+    </application>
+    <uses-permission android:name="android.permission.GET_PACKAGE_SIZE"/>
+    <uses-permission android:name="android.permission.READ_CALENDAR"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.READ_SMS"/>
+    <uses-permission android:name="android.permission.READ_CONTACTS"/>
+    <uses-permission android:name="android.permission.READ_PHONE_STATE"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.RECEIVE_SMS"/>
+    <uses-permission android:name="android.permission.BLUETOOTH"/>
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN"/>
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.CAMERA"/>
+    <uses-permission android:name="android.permission.RECORD_AUDIO"/>
+    <uses-feature android:name="android.hardware.camera"/>
+    <uses-feature android:name="android.hardware.camera.autofocus"/>
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS"/>
+    <uses-permission android:name="android.permission.RESTART_PACKAGES"/>
+    <uses-permission android:name="android.permission.WAKE_LOCK"/>
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+</manifest>
